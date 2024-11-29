@@ -14,7 +14,7 @@
 
  </div>
  
-<div align="left"> 
+<div align="center"> 
   <a href="mailto:shengshi_neu@icloud.com">
     <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" />
   </a>
